@@ -3,6 +3,7 @@ This repository contains my self-learned courses about AI(Deep learning, Reinfor
 
 Finished Courses:
 1.Deep Learning Specialization (Coursera Andrew Ng)
+>
 2.Machine Learning (Coursera Andrew Ng)
 3.Neural Network for Machine Learning (Coursera Geoffrey Hinton)
 4.Deep Learning (Udacity Vincent Vanhoucke)
