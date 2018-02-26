@@ -15,6 +15,6 @@ On-going Courses:
 1.MIT 6.S099 Artificial General Intelligence (Spring 2018)(MIT Lex Fridman)
 2.Machine Learning (Udacity Michael Littman & Charles Isbell）
 3.Reinforcement Learning (Udacity Michael Littman & Charles Isbell）
-
+4.Artificial Intelligence (edX Ansaf Salleb-Aouissi）
 
 
