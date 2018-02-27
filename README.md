@@ -1,5 +1,6 @@
 # AI-online-courses
 This repository contains my self-learned courses about AI(Deep learning, Reinforcement Learning, AGI, etc)
+Course materials and my assignments solutions will be uploaded gradually
 
 Finished Courses:  
 1.Deep Learning Specialization (Coursera Andrew Ng)  
